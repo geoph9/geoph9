@@ -1,7 +1,7 @@
 👋 Hi there, I’m @geoph9
 
-- 👀 I’m interested in NLP, Speech Processing, and local-only smart home systems, among other things.
-- 🌱 I’m currently learning more about curriculum learning and unsupervised/lightly-supervised speech recognition.
+- 👀 I’m interested in Speech Processing, NLP, and local-first smart home systems, among other things.
+- 🌱 I’m currently learning more about Speech Language Models (SLMs) and the role context-independent speech representations play in their learning trajectory.
 - I'm always open to collaborate on new topics!
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoph9&hide=jupyter%20notebook,css,scss,html&theme=tokyonight) -->
